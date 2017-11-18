@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\Android\custom-google-map-master\PolylineTest.iml" filepath="D:\Android\custom-google-map-master\PolylineTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Android\custom-google-map-master\app\app.iml" filepath="D:\Android\custom-google-map-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custom-google-map-master.iml" filepath="$PROJECT_DIR$/custom-google-map-master.iml" />
+    </modules>
+  </component>
+</project>

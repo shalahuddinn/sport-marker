@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.dzakiy.royyan.polylinetest.MainActivity">
+
+    <fragment
+        android:id="@+id/map_main"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.dzakiy.royyan.polylinetest.MainActivity" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ke Maps"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="446dp"
+        android:onClick="keMaps" />
+
+</android.support.constraint.ConstraintLayout>
