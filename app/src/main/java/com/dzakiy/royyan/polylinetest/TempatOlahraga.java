@@ -9,10 +9,10 @@ import com.google.android.gms.maps.model.LatLng;
 public class TempatOlahraga {
     private String title;
     private LatLng latLng;
-    private String type; // football, basketball, badminton, futsal, bowling
+    private int type; // {0,1,2,3,4,5} football, basketball, badminton, futsal, bowling
     private String snippet;
 
-    public TempatOlahraga(String title, LatLng latLng, String type, String snippet) {
+    public TempatOlahraga(String title, LatLng latLng, int type, String snippet) {
         this.title = title;
         this.latLng = latLng;
         this.type = type;
@@ -31,7 +31,7 @@ public class TempatOlahraga {
         return latLng;
     }
 
-    public String getType() {
+    public int getType() {
         return type;
     }
 }

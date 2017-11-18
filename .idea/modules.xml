@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://D:\Android\custom-google-map-master\PolylineTest.iml" filepath="D:\Android\custom-google-map-master\PolylineTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://G:\Prestasi\Competition\Facebook - Olahraga app\sport-marker\app\app.iml" filepath="G:\Prestasi\Competition\Facebook - Olahraga app\sport-marker\app\app.iml" />
       <module fileurl="file://D:\Android\custom-google-map-master\app\app.iml" filepath="D:\Android\custom-google-map-master\app\app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/custom-google-map-master.iml" filepath="$PROJECT_DIR$/custom-google-map-master.iml" />
+      <module fileurl="file://G:\Prestasi\Competition\Facebook - Olahraga app\sport-marker\custom-google-map-master.iml" filepath="G:\Prestasi\Competition\Facebook - Olahraga app\sport-marker\custom-google-map-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sport-marker.iml" filepath="$PROJECT_DIR$/sport-marker.iml" />
     </modules>
   </component>
 </project>
